@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Scotland-react/static/js/main.99f8df06.chunk.js",
-    "main.js.map": "/Scotland-react/static/js/main.99f8df06.chunk.js.map",
+    "main.js": "/Scotland-react/static/js/main.1bd9da58.chunk.js",
+    "main.js.map": "/Scotland-react/static/js/main.1bd9da58.chunk.js.map",
     "runtime-main.js": "/Scotland-react/static/js/runtime-main.aa7dd352.js",
     "runtime-main.js.map": "/Scotland-react/static/js/runtime-main.aa7dd352.js.map",
     "static/js/2.502a483e.chunk.js": "/Scotland-react/static/js/2.502a483e.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.aa7dd352.js",
     "static/js/2.502a483e.chunk.js",
-    "static/js/main.99f8df06.chunk.js"
+    "static/js/main.1bd9da58.chunk.js"
   ]
 }
