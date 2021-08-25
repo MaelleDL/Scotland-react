@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/MaelleDL/Scotland-react.git/static/js/main.99f8df06.chunk.js",
-    "main.js.map": "/MaelleDL/Scotland-react.git/static/js/main.99f8df06.chunk.js.map",
-    "runtime-main.js": "/MaelleDL/Scotland-react.git/static/js/runtime-main.65ef8788.js",
-    "runtime-main.js.map": "/MaelleDL/Scotland-react.git/static/js/runtime-main.65ef8788.js.map",
-    "static/js/2.502a483e.chunk.js": "/MaelleDL/Scotland-react.git/static/js/2.502a483e.chunk.js",
-    "static/js/2.502a483e.chunk.js.map": "/MaelleDL/Scotland-react.git/static/js/2.502a483e.chunk.js.map",
-    "static/js/3.eff3cb2c.chunk.js": "/MaelleDL/Scotland-react.git/static/js/3.eff3cb2c.chunk.js",
-    "static/js/3.eff3cb2c.chunk.js.map": "/MaelleDL/Scotland-react.git/static/js/3.eff3cb2c.chunk.js.map",
-    "index.html": "/MaelleDL/Scotland-react.git/index.html",
-    "static/js/2.502a483e.chunk.js.LICENSE.txt": "/MaelleDL/Scotland-react.git/static/js/2.502a483e.chunk.js.LICENSE.txt"
+    "main.js": "/Scotland-react/static/js/main.99f8df06.chunk.js",
+    "main.js.map": "/Scotland-react/static/js/main.99f8df06.chunk.js.map",
+    "runtime-main.js": "/Scotland-react/static/js/runtime-main.aa7dd352.js",
+    "runtime-main.js.map": "/Scotland-react/static/js/runtime-main.aa7dd352.js.map",
+    "static/js/2.502a483e.chunk.js": "/Scotland-react/static/js/2.502a483e.chunk.js",
+    "static/js/2.502a483e.chunk.js.map": "/Scotland-react/static/js/2.502a483e.chunk.js.map",
+    "static/js/3.eff3cb2c.chunk.js": "/Scotland-react/static/js/3.eff3cb2c.chunk.js",
+    "static/js/3.eff3cb2c.chunk.js.map": "/Scotland-react/static/js/3.eff3cb2c.chunk.js.map",
+    "index.html": "/Scotland-react/index.html",
+    "static/js/2.502a483e.chunk.js.LICENSE.txt": "/Scotland-react/static/js/2.502a483e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65ef8788.js",
+    "static/js/runtime-main.aa7dd352.js",
     "static/js/2.502a483e.chunk.js",
     "static/js/main.99f8df06.chunk.js"
   ]
