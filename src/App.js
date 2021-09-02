@@ -1,10 +1,18 @@
 import React from 'react';
 
-function App() {
+import './styles/App.scss';
+
+import Welcome from './components/Welcome';
+import Landscape from './components/Landscape';
+import BlanckSpace from './components/BlanckSpace';
+
+const App=()=> {
   return (
-    <div className="App">
-      <h1>Scotland style</h1>
-      <p>PAttin couffin...blblblb</p>
+    <div id="App">
+      <Welcome />
+      <BlanckSpace/>
+      <Landscape />
+      <BlanckSpace/>
     </div>
   );
 }

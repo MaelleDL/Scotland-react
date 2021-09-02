@@ -1,0 +1,48 @@
+$white: #f0f0f0;
+$black: #272727;
+$blue: #3b7ab7;
+$green: #4a7649;
+
+* {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  color: $white;
+}
+#App {
+  min-height: 100%;
+}
+h1 {
+  font-size: 10vh;
+}
+h2 {
+  font-size: 5vh;
+}
+p {
+  font-size: 2.5vh;
+}
+.Text {
+  display: flex;
+  flex-direction: column;
+}
+#BlanckSpace {
+  min-height: 10vh;
+}
+@media only screen and (min-width: 992px) {
+  h1 {
+    font-size: 18vh;
+  }
+  h2 {
+    font-size: 9vh;
+  }
+  p {
+    font-size: 4.5vh;
+  }
+}
+
+@import "./Welcome";
+@import "./Landscape";

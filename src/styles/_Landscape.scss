@@ -1,0 +1,34 @@
+#Landscape {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0vh 3vh;
+  img {
+    width: 90%;
+  }
+  .L-Text {
+    background: rgba(74, 118, 73, 0.8);
+    padding: 5vh;
+    margin-left: 4vh;
+    display: flex;
+    margin-top: -16vh;
+    h2 {
+      margin-bottom: 1.5vh;
+    }
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  #Landscape {
+    flex-direction: row;
+    align-items: center;
+    img {
+      width: auto;
+    }
+    .L-Text {
+      margin-left: -20vh;
+      margin-top: 0vh;
+      max-width: 100vh;
+    }
+  }
+}
