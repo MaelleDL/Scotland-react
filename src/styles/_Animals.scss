@@ -1,0 +1,29 @@
+#Animals {
+  color: $black !important;
+  .green-rectangle {
+    height: 40vh;
+    background: $green;
+  }
+  .contenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: -50vh 0 0 0;
+    .img-1 {
+      width: 60%;
+      margin-left: -20vh;
+    }
+    .img-2 {
+      width: 50%;
+      margin: -10vh 0 0 30vh;
+    }
+  }
+  .text {
+    background: $white;
+    width: 50%;
+    align-self: flex-start;
+    padding: 2vh;
+    margin: -40vh 0 0 4vh;
+  }
+}
