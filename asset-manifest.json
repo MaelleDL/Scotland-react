@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/Scotland-react/static/css/main.68e549d1.chunk.css",
-    "main.js": "/Scotland-react/static/js/main.3200ee43.chunk.js",
-    "main.js.map": "/Scotland-react/static/js/main.3200ee43.chunk.js.map",
-    "runtime-main.js": "/Scotland-react/static/js/runtime-main.d04ee7ce.js",
-    "runtime-main.js.map": "/Scotland-react/static/js/runtime-main.d04ee7ce.js.map",
-    "static/js/2.7579c11e.chunk.js": "/Scotland-react/static/js/2.7579c11e.chunk.js",
-    "static/js/2.7579c11e.chunk.js.map": "/Scotland-react/static/js/2.7579c11e.chunk.js.map",
-    "static/js/3.5e382b8a.chunk.js": "/Scotland-react/static/js/3.5e382b8a.chunk.js",
-    "static/js/3.5e382b8a.chunk.js.map": "/Scotland-react/static/js/3.5e382b8a.chunk.js.map",
+    "main.css": "/Scotland-react/static/css/main.30d3e7b2.chunk.css",
+    "main.js": "/Scotland-react/static/js/main.f78b45f6.chunk.js",
+    "main.js.map": "/Scotland-react/static/js/main.f78b45f6.chunk.js.map",
+    "runtime-main.js": "/Scotland-react/static/js/runtime-main.e0a68440.js",
+    "runtime-main.js.map": "/Scotland-react/static/js/runtime-main.e0a68440.js.map",
+    "static/js/2.eff68b6e.chunk.js": "/Scotland-react/static/js/2.eff68b6e.chunk.js",
+    "static/js/2.eff68b6e.chunk.js.map": "/Scotland-react/static/js/2.eff68b6e.chunk.js.map",
+    "static/js/3.15902687.chunk.js": "/Scotland-react/static/js/3.15902687.chunk.js",
+    "static/js/3.15902687.chunk.js.map": "/Scotland-react/static/js/3.15902687.chunk.js.map",
     "index.html": "/Scotland-react/index.html",
-    "static/css/main.68e549d1.chunk.css.map": "/Scotland-react/static/css/main.68e549d1.chunk.css.map",
-    "static/js/2.7579c11e.chunk.js.LICENSE.txt": "/Scotland-react/static/js/2.7579c11e.chunk.js.LICENSE.txt",
+    "static/css/main.30d3e7b2.chunk.css.map": "/Scotland-react/static/css/main.30d3e7b2.chunk.css.map",
+    "static/js/2.eff68b6e.chunk.js.LICENSE.txt": "/Scotland-react/static/js/2.eff68b6e.chunk.js.LICENSE.txt",
     "static/media/Building.f5d08e9f.png": "/Scotland-react/static/media/Building.f5d08e9f.png",
     "static/media/Cow.40ac6c83.png": "/Scotland-react/static/media/Cow.40ac6c83.png",
     "static/media/Landscape.812c7226.png": "/Scotland-react/static/media/Landscape.812c7226.png",
     "static/media/Sheep.9a719644.png": "/Scotland-react/static/media/Sheep.9a719644.png",
     "static/media/castle.7e291488.png": "/Scotland-react/static/media/castle.7e291488.png",
     "static/media/city.f8eb1164.png": "/Scotland-react/static/media/city.f8eb1164.png",
+    "static/media/logo.8a38da18.png": "/Scotland-react/static/media/logo.8a38da18.png",
     "static/media/App.scss": "/Scotland-react/static/media/mountain.8985f042.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d04ee7ce.js",
-    "static/js/2.7579c11e.chunk.js",
-    "static/css/main.68e549d1.chunk.css",
-    "static/js/main.3200ee43.chunk.js"
+    "static/js/runtime-main.e0a68440.js",
+    "static/js/2.eff68b6e.chunk.js",
+    "static/css/main.30d3e7b2.chunk.css",
+    "static/js/main.f78b45f6.chunk.js"
   ]
 }
