@@ -1,0 +1,10 @@
+footer {
+  background: $black;
+  color: $white;
+  padding: 4rem;
+  display: flex;
+  justify-content: flex-end;
+  p {
+    font-size: 2vh;
+  }
+}

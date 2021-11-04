@@ -1,0 +1,46 @@
+.banner {
+  position: fixed;
+  bottom: 0;
+  background: $clearblack;
+  color: $white;
+  width: 100%;
+  padding: 1vh 2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 10;
+  p {
+    font-size: 2vh;
+    padding: 1vh;
+    a {
+      color: $blue;
+    }
+  }
+  button {
+    background: $green;
+    border: none;
+    padding: 1vh;
+    font-size: 2vh;
+    color: $white;
+    cursor: pointer;
+  }
+  button:hover,
+  button:active,
+  button:focus {
+    background: #395a38;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .banner {
+    flex-direction: row;
+    padding: 2vh 1vh;
+    p {
+      font-size: 1.5vh;
+    }
+    button {
+      padding: 2vh;
+      font-size: 1.5vh;
+    }
+  }
+}

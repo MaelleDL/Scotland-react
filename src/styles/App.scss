@@ -1,5 +1,6 @@
 $white: #f0f0f0;
 $black: #272727;
+$clearblack: rgba(39, 39, 39, 0.9);
 $blue: #3b7ab7;
 $green: #4a7649;
 
@@ -30,7 +31,7 @@ p {
   flex-direction: column;
 }
 #BlanckSpace {
-  min-height: 20vh;
+  height: 10vh;
 }
 @media only screen and (min-width: 992px) {
   h1 {
@@ -43,7 +44,7 @@ p {
     font-size: 4.5vh;
   }
   #BlanckSpace {
-    min-height: 40vh;
+    height: 30vh;
   }
 }
 
@@ -51,3 +52,6 @@ p {
 @import "./Landscape";
 @import "./Cities";
 @import "./Animals";
+@import "./Banner";
+@import "./NavBar";
+@import "./Footer";

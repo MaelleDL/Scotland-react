@@ -1,7 +1,7 @@
 #Animals {
   color: $black !important;
   .green-rectangle {
-    height: 40vh;
+    height: 50vh;
     background: $green;
   }
   .contenu {
@@ -9,7 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: -50vh 0 0 0;
+    margin: -60vh 0 0 0;
     .img-1 {
       width: 60%;
       margin-left: -20vh;
@@ -21,9 +21,53 @@
   }
   .text {
     background: $white;
-    width: 50%;
+    width: 60%;
     align-self: flex-start;
     padding: 2vh;
-    margin: -40vh 0 0 4vh;
+    margin: -35vh 0 0 2vh;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #Animals {
+    .green-rectangle {
+      height: 50vh;
+    }
+    .contenu {
+      .img-1 {
+        width: 50%;
+        margin-left: -20vh;
+      }
+      .img-2 {
+        width: 40%;
+        margin: -20vh 0 0 40vh;
+      }
+    }
+    .text {
+      margin: -30vh 0 0 2vh;
+    }
+  }
+}
+@media only screen and (min-width: 992px) {
+  #Animals {
+    // .green-rectangle {
+    //   height: 50vh;
+    // }
+    .contenu {
+      margin: -60vh 4vh 0 4vh;
+      flex-direction: row;
+      align-items: center;
+      .img-1 {
+        width: auto;
+        margin-left: 0;
+      }
+      .img-2 {
+        width: auto;
+        margin: 0 0 0 -8vh;
+      }
+    }
+    .text {
+      margin: 0 0 0 0;
+      align-self: center;
+    }
   }
 }

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 
 import './styles/App.scss';
 
@@ -7,17 +7,27 @@ import BlanckSpace from './components/BlanckSpace';
 import Landscape from './components/Landscape';
 import Cities from './components/Cities';
 import Animals from './components/Animals';
+import Banner from './components/banner';
+import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 
-const App=()=> {
+const App = () => {
+  const [banner, setBanner] = useState(true);
   return (
     <div id="App">
+      <NavBar/>
       <Welcome />
       <BlanckSpace/>
       <Landscape />
       <BlanckSpace />
       <Cities />
       <BlanckSpace />
-      <Animals/>
+      <Animals />
+      <BlanckSpace />
+      <Footer />
+      {banner === true && <Banner setBanner={setBanner} />}
+      
+      
     </div>
   );
 }
